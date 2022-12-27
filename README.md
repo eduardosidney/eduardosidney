@@ -4,24 +4,9 @@
 * DevOps intusiast 
 
 ## École 42's Projects
-
-<img height="80px" src="./src/42_badges/libftm.png" />
-</a>
-
-<img height="80px" src="./src/42_badges/get_next_linem.png" />
-</a>
-
-<img height="80px" src="./src/42_badges/born2beroote.png" />
-</a>
-
-<img height="80px" src="./src/42_badges/ft_printfe.png" />
-</a>
-
-<img height="80px" src="./src/42_badges/minitalk.png" />
-</a>
     
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesper-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosidney&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github)](https://skillicons.dev)
