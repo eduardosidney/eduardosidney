@@ -2,8 +2,6 @@
 * Software engineering at [42|Rio](https://42.rio/).
 * Shell Script & Linux.
 * DevOps intusiast 
-
-## École 42's Projects
     
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosidney&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
