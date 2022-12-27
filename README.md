@@ -4,19 +4,19 @@
 * DevOps intusiast 
 
 ## École 42's Projects
-<a href="https://github.com/eduardosidney/42-libft">
+
 <img height="80px" src="./src/42_badges/libftm.png" />
 </a>
-<a href="https://github.com/eduardosidney/42-get_next_line">
+
 <img height="80px" src="./src/42_badges/get_next_linem.png" />
 </a>
-<a href="https://github.com/eduardosidney/42-born2beroot">
+
 <img height="80px" src="./src/42_badges/born2beroote.png" />
 </a>
-<a href="https://github.com/eduardosidney/42-ft_printf">
+
 <img height="80px" src="./src/42_badges/ft_printfe.png" />
 </a>
-<a href="https://github.com/eduardosidney/42-minitalk">
+
 <img height="80px" src="./src/42_badges/minitalk.png" />
 </a>
     
