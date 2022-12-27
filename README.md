@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github)](https://skillicons.dev)
 <br>
 
-## Stay in touch
+## Contact me
 <div>
   <a href="https://www.linkedin.com/in/eduardo-sidney-238201209/" target="_blank"><img align="center" alt="Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 </div>
