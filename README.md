@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosidney&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,vim,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,c,bash,powershell,vim,git,github)](https://skillicons.dev)
 <br>
 
 ## Contact me
